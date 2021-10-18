@@ -17,6 +17,10 @@
     "build": "eleventy",
     "start": "eleventy --serve"
   },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raineycode/linkity-files.git"
+  },
   "dependencies": {
     "@11ty/eleventy": "^0.9.0"
   },
