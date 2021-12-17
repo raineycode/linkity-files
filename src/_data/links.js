@@ -6,6 +6,6 @@ module.exports = [
   },
   {
     name: "Newsletter",
-    url: "https://getrevue.com/raineycode",
+    url: "https://getrevue.co/profile/raineycode",
   }
 ];
